@@ -1,0 +1,12 @@
+body {
+  background: #f5e1e1;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+td{
+  margin: 20px;
+}
